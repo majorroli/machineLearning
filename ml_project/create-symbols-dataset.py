@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # =============================================================================
-# Created By:     Kai Metzger
-# Created School: Franz-Oberthuer-Schule Wuerzburg
-# Created Email:  metzgerkai@franz-oberthuer-schule.de
+# Created By:     Roland Mayer
+# Created School: Fos Bos Marktheidenfeld
+# Created Email:  roland.mayer@fosbos-marktheidenfeld.de
 # Created Date:   Fri February 23 07:31:00 UTC 2024
 # Version:        1.0
 # =============================================================================
